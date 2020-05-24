@@ -116,6 +116,63 @@
       { "trigger": "is-family-secondary\tBulma font family", "contents": "is-family-secondary" }
       { "trigger": "is-family-code\tBulma font family", "contents": "is-family-code" }
 
+      { "trigger": "columns\tBulma columns", "contents": "columns" }
+      { "trigger": "column\tBulma column", "contents": "column" }
+      
+      { "trigger": "is-three-quarters\tBulma column size", "contents": "is-three-quarters" }
+      { "trigger": "is-two-thirds\tBulma column size", "contents": "is-two-thirds" }
+      { "trigger": "is-half\tBulma column size", "contents": "is-half" }
+      { "trigger": "is-one-third\tBulma column size", "contents": "is-one-third" }
+      { "trigger": "is-one-quarter\tBulma column size", "contents": "is-one-quarter" }
+      { "trigger": "is-full\tBulma column size", "contents": "is-full" }
+      
+      { "trigger": "is-four-fifths\tBulma column size", "contents": "is-four-fifths" }
+      { "trigger": "is-three-fifths\tBulma column size", "contents": "is-three-fifths" }
+      { "trigger": "is-two-fifths\tBulma column size", "contents": "is-two-fifths" }
+      { "trigger": "is-one-fifth\tBulma column size", "contents": "is-one-fifth" }
+      
+      { "trigger": "is-1\tBulma column size", "contents": "is-1" }
+      { "trigger": "is-2\tBulma column size", "contents": "is-2" }
+      { "trigger": "is-3\tBulma column size", "contents": "is-3" }
+      { "trigger": "is-4\tBulma column size", "contents": "is-4" }
+      { "trigger": "is-5\tBulma column size", "contents": "is-5" }
+      { "trigger": "is-6\tBulma column size", "contents": "is-6" }
+      { "trigger": "is-7\tBulma column size", "contents": "is-7" }
+      { "trigger": "is-8\tBulma column size", "contents": "is-8" }
+      { "trigger": "is-9\tBulma column size", "contents": "is-9" }
+      { "trigger": "is-10\tBulma column size", "contents": "is-10" }
+      { "trigger": "is-11\tBulma column size", "contents": "is-11" }
+      { "trigger": "is-12\tBulma column size", "contents": "is-12" }
+
+      { "trigger": "is-offset-three-quarters\tBulma column offset", "contents": "is-offset-three-quarters" }
+      { "trigger": "is-offset-two-thirds\tBulma column offset", "contents": "is-offset-two-thirds" }
+      { "trigger": "is-offset-half\tBulma column offset", "contents": "is-offset-half" }
+      { "trigger": "is-offset-one-third\tBulma column offset", "contents": "is-offset-one-third" }
+      { "trigger": "is-offset-one-quarter\tBulma column offset", "contents": "is-offset-one-quarter" }
+      { "trigger": "is-offset-full\tBulma column offset", "contents": "is-offset-full" }
+      
+      { "trigger": "is-offset-four-fifths\tBulma column offset", "contents": "is-offset-four-fifths" }
+      { "trigger": "is-offset-three-fifths\tBulma column offset", "contents": "is-offset-three-fifths" }
+      { "trigger": "is-offset-two-fifths\tBulma column offset", "contents": "is-offset-two-fifths" }
+      { "trigger": "is-offset-one-fifth\tBulma column offset", "contents": "is-offset-one-fifth" }
+      
+      { "trigger": "is-offset-1\tBulma column offset", "contents": "is-offset-1" }
+      { "trigger": "is-offset-2\tBulma column offset", "contents": "is-offset-2" }
+      { "trigger": "is-offset-3\tBulma column offset", "contents": "is-offset-3" }
+      { "trigger": "is-offset-4\tBulma column offset", "contents": "is-offset-4" }
+      { "trigger": "is-offset-5\tBulma column offset", "contents": "is-offset-5" }
+      { "trigger": "is-offset-6\tBulma column offset", "contents": "is-offset-6" }
+      { "trigger": "is-offset-7\tBulma column offset", "contents": "is-offset-7" }
+      { "trigger": "is-offset-8\tBulma column offset", "contents": "is-offset-8" }
+      { "trigger": "is-offset-9\tBulma column offset", "contents": "is-offset-9" }
+      { "trigger": "is-offset-10\tBulma column offset", "contents": "is-offset-10" }
+      { "trigger": "is-offset-11\tBulma column offset", "contents": "is-offset-11" }
+      { "trigger": "is-offset-12\tBulma column offset", "contents": "is-offset-12" }
+      
+      { "trigger": "is-narrow\tBulma column narrow", "contents": "is-narrow" }
+
+      { "trigger": "is-vcentered\tBulma column vertical alignment", "contents": "is-vcentered" }
+      { "trigger": "is-multiline\tBulma column multiline", "contents": "is-multiline" }
       { "trigger": "\t", "contents": "" }
    ]
 }

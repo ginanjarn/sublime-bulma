@@ -1,0 +1,18 @@
+{
+   "scope": "text.html",
+
+   "completions":
+   [
+      { "trigger": "bulma-cdn\tBulma CDN", "contents": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css\">" },
+      { "trigger": "fa-cdn\tFontawesome CDN", "contents": "<script defer src=\"https://use.fontawesome.com/releases/v5.3.1/js/all.js\"></script>" },
+      
+      { "trigger": "is-primary\tBulma colors", "contents": "is-primary" }
+      { "trigger": "is-link\tBulma colors", "contents": "is-link" }
+      { "trigger": "is-info\tBulma colors", "contents": "is-info" }
+      { "trigger": "is-success\tBulma colors", "contents": "is-success" }
+      { "trigger": "is-warning\tBulma colors", "contents": "is-warning" }
+      { "trigger": "is-danger\tBulma colors", "contents": "is-danger" }
+      
+      { "trigger": "\t", "contents": "" }
+   ]
+}

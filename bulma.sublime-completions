@@ -173,6 +173,34 @@
 
       { "trigger": "is-vcentered\tBulma column vertical alignment", "contents": "is-vcentered" }
       { "trigger": "is-multiline\tBulma column multiline", "contents": "is-multiline" }
-      { "trigger": "\t", "contents": "" }
+      
+      { "trigger": "container\tBulma container", "contents": "container" }
+      { "trigger": "container is-fluid\tBulma container fluid", "contents": "container is-fluid" }
+      
+      { "trigger": "level\tBulma level", "contents": "level" }
+      { "trigger": "level-left\tBulma level", "contents": "level-left" }
+      { "trigger": "level-right\tBulma level", "contents": "level-right" }
+      { "trigger": "level-item\tBulma level", "contents": "level-item" }
+      
+      { "trigger": "media\tBulma media", "contents": "media" }
+      { "trigger": "media-content\tBulma media", "contents": "media-content" }
+      { "trigger": "media-left\tBulma media", "contents": "media-left" }
+      
+      { "trigger": "hero\tBulma hero", "contents": "hero" }
+      { "trigger": "hero-body\tBulma hero", "contents": "hero-body" }
+      { "trigger": "hero-head\tBulma hero", "contents": "hero-head" }
+      { "trigger": "hero-foot\tBulma hero", "contents": "hero-foot" }
+      
+      { "trigger": "section\tBulma section", "contents": "section" }
+
+      { "trigger": "footer\tBulma footer", "contents": "footer" }
+
+      { "trigger": "tile\tBulma tile", "contents": "tile" }
+      { "trigger": "is-anchestor\tBulma tile", "contents": "is-anchestor" }
+      { "trigger": "is-parent\tBulma tile", "contents": "is-parent" }
+      { "trigger": "is-child\tBulma tile", "contents": "is-child" }
+      { "trigger": "is-vertical\tBulma tile", "contents": "is-vertical" }
+      
+      { "trigger": "\tBulma", "contents": "" }
    ]
 }

@@ -86,6 +86,36 @@
       { "trigger": "has-background-white-ter\tBulma background color", "contents": "has-background-white-ter" }
       { "trigger": "has-background-white-bis\tBulma background color", "contents": "has-background-white-bis" }
 
+      { "trigger": "is-size-1\tBulma text size", "contents": "is-size-1" }
+      { "trigger": "is-size-2\tBulma text size", "contents": "is-size-2" }
+      { "trigger": "is-size-3\tBulma text size", "contents": "is-size-3" }
+      { "trigger": "is-size-4\tBulma text size", "contents": "is-size-4" }
+      { "trigger": "is-size-5\tBulma text size", "contents": "is-size-5" }
+      { "trigger": "is-size-6\tBulma text size", "contents": "is-size-6" }
+      { "trigger": "is-size-7\tBulma text size", "contents": "is-size-7" }
+      
+      { "trigger": "has-text-centered\tBulma text alignment", "contents": "has-text-centered" }
+      { "trigger": "has-text-justified\tBulma text alignment", "contents": "has-text-justified" }
+      { "trigger": "has-text-left\tBulma text alignment", "contents": "has-text-left" }
+      { "trigger": "has-text-right\tBulma text alignment", "contents": "has-text-right" }
+      
+      { "trigger": "is-capitalized\tBulma text transform", "contents": "is-capitalized" }
+      { "trigger": "is-lowercase\tBulma text transform", "contents": "is-lowercase" }
+      { "trigger": "is-uppercase\tBulma text transform", "contents": "is-uppercase" }
+      { "trigger": "is-italic\tBulma text transform", "contents": "is-italic" }
+      
+      { "trigger": "has-text-weight-light\tBulma text weight", "contents": "has-text-weight-light" }
+      { "trigger": "has-text-weight-normal\tBulma text weight", "contents": "has-text-weight-normal" }
+      { "trigger": "has-text-weight-medium\tBulma text weight", "contents": "has-text-weight-medium" }
+      { "trigger": "has-text-weight-semibold\tBulma text weight", "contents": "has-text-weight-semibold" }
+      { "trigger": "has-text-weight-bold\tBulma text weight", "contents": "has-text-weight-bold" }
+      
+      { "trigger": "is-family-sans-serif\tBulma font family", "contents": "is-family-sans-serif" }
+      { "trigger": "is-family-monospace\tBulma font family", "contents": "is-family-monospace" }
+      { "trigger": "is-family-primary\tBulma font family", "contents": "is-family-primary" }
+      { "trigger": "is-family-secondary\tBulma font family", "contents": "is-family-secondary" }
+      { "trigger": "is-family-code\tBulma font family", "contents": "is-family-code" }
+
       { "trigger": "\t", "contents": "" }
    ]
 }

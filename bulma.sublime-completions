@@ -6,201 +6,247 @@
       { "trigger": "bulma-cdn\tBulma CDN", "contents": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css\">" },
       { "trigger": "fa-cdn\tFontawesome CDN", "contents": "<script defer src=\"https://use.fontawesome.com/releases/v5.3.1/js/all.js\"></script>" },
       
-      { "trigger": "mobile\tBulma screen", "contents": "-mobile" }
-      { "trigger": "tablet\tBulma screen", "contents": "-tablet" }
-      { "trigger": "desktop\tBulma screen", "contents": "-desktop" }
-      { "trigger": "widescreen\tBulma screen", "contents": "-widescreen" }
+      { "trigger": "fa-\tFontawesome", "contents": "fas fa-$1" },
       
-      { "trigger": "is-primary\tBulma colors", "contents": "is-primary" }
-      { "trigger": "is-link\tBulma colors", "contents": "is-link" }
-      { "trigger": "is-info\tBulma colors", "contents": "is-info" }
-      { "trigger": "is-success\tBulma colors", "contents": "is-success" }
-      { "trigger": "is-warning\tBulma colors", "contents": "is-warning" }
-      { "trigger": "is-danger\tBulma colors", "contents": "is-danger" }
+      { "trigger": "mobile\tBulma screen", "contents": "-mobile" },
+      { "trigger": "tablet\tBulma screen", "contents": "-tablet" },
+      { "trigger": "desktop\tBulma screen", "contents": "-desktop" },
+      { "trigger": "widescreen\tBulma screen", "contents": "-widescreen" },
       
-      { "trigger": "is-small\tBulma size", "contents": "is-small" }
-      { "trigger": "is-medium\tBulma size", "contents": "is-medium" }
-      { "trigger": "is-large\tBulma size", "contents": "is-large" }
+      { "trigger": "is-primary\tBulma colors", "contents": "is-primary" },
+      { "trigger": "is-link\tBulma colors", "contents": "is-link" },
+      { "trigger": "is-info\tBulma colors", "contents": "is-info" },
+      { "trigger": "is-success\tBulma colors", "contents": "is-success" },
+      { "trigger": "is-warning\tBulma colors", "contents": "is-warning" },
+      { "trigger": "is-danger\tBulma colors", "contents": "is-danger" },
       
-      { "trigger": "is-outlined\tBulma state", "contents": "is-outlined" }
-      { "trigger": "is-loading\tBulma state", "contents": "is-loading" }
+      { "trigger": "is-small\tBulma size", "contents": "is-small" },
+      { "trigger": "is-medium\tBulma size", "contents": "is-medium" },
+      { "trigger": "is-large\tBulma size", "contents": "is-large" },
+      
+      { "trigger": "is-outlined\tBulma state", "contents": "is-outlined" },
 
-      { "trigger": "is-clearfix\tBulma helpers", "contents": "is-clearfix" }
-      { "trigger": "is-pulled-left\tBulma helpers", "contents": "is-pulled-left" }
-      { "trigger": "is-pulled-right\tBulma helpers", "contents": "is-pulled-right" }
-      { "trigger": "is-marginless\tBulma helpers", "contents": "is-marginless" }
-      { "trigger": "is-paddingless\tBulma helpers", "contents": "is-paddingless" }
-      { "trigger": "is-overlay\tBulma helpers", "contents": "is-overlay" }
-      { "trigger": "is-clipped\tBulma helpers", "contents": "is-clipped" }
-      { "trigger": "is-radiusless\tBulma helpers", "contents": "is-radiusless" }
-      { "trigger": "is-shadowless\tBulma helpers", "contents": "is-shadowless" }
-      { "trigger": "is-unselectable\tBulma helpers", "contents": "is-unselectable" }
-      { "trigger": "is-invisible\tBulma helpers", "contents": "is-invisible" }
-      { "trigger": "is-hidden\tBulma helpers", "contents": "is-hidden" }
-      { "trigger": "is-sr-only\tBulma helpers", "contents": "is-sr-only" }
-      { "trigger": "is-relative\tBulma helpers", "contents": "is-relative" }
+      { "trigger": "is-clearfix\tBulma helpers", "contents": "is-clearfix" },
+      { "trigger": "is-pulled-left\tBulma helpers", "contents": "is-pulled-left" },
+      { "trigger": "is-pulled-right\tBulma helpers", "contents": "is-pulled-right" },
+      { "trigger": "is-marginless\tBulma helpers", "contents": "is-marginless" },
+      { "trigger": "is-paddingless\tBulma helpers", "contents": "is-paddingless" },
+      { "trigger": "is-overlay\tBulma helpers", "contents": "is-overlay" },
+      { "trigger": "is-clipped\tBulma helpers", "contents": "is-clipped" },
+      { "trigger": "is-radiusless\tBulma helpers", "contents": "is-radiusless" },
+      { "trigger": "is-shadowless\tBulma helpers", "contents": "is-shadowless" },
+      { "trigger": "is-unselectable\tBulma helpers", "contents": "is-unselectable" },
+      { "trigger": "is-invisible\tBulma helpers", "contents": "is-invisible" },
+      { "trigger": "is-hidden\tBulma helpers", "contents": "is-hidden" },
+      { "trigger": "is-sr-only\tBulma helpers", "contents": "is-sr-only" },
+      { "trigger": "is-relative\tBulma helpers", "contents": "is-relative" },
       
-      { "trigger": "is-block\tBulma display", "contents": "is-block" }
-      { "trigger": "is-flex\tBulma display", "contents": "is-flex" }
-      { "trigger": "is-inline\tBulma display", "contents": "is-inline" }
-      { "trigger": "is-inline-block\tBulma display", "contents": "is-inline-block" }
-      { "trigger": "is-inline-flex\tBulma display", "contents": "is-inline-flex" }
+      { "trigger": "is-block\tBulma display", "contents": "is-block" },
+      { "trigger": "is-flex\tBulma display", "contents": "is-flex" },
+      { "trigger": "is-inline\tBulma display", "contents": "is-inline" },
+      { "trigger": "is-inline-block\tBulma display", "contents": "is-inline-block" },
+      { "trigger": "is-inline-flex\tBulma display", "contents": "is-inline-flex" },
       
-      { "trigger": "has-text-white\tBulma text color", "contents": "has-text-white" }
-      { "trigger": "has-text-black\tBulma text color", "contents": "has-text-black" }
-      { "trigger": "has-text-light\tBulma text color", "contents": "has-text-light" }
-      { "trigger": "has-text-dark\tBulma text color", "contents": "has-text-dark" }
-      { "trigger": "has-text-primary\tBulma text color", "contents": "has-text-primary" }
-      { "trigger": "has-text-info\tBulma text color", "contents": "has-text-info" }
-      { "trigger": "has-text-link\tBulma text color", "contents": "has-text-link" }
-      { "trigger": "has-text-success\tBulma text color", "contents": "has-text-success" }
-      { "trigger": "has-text-warning\tBulma text color", "contents": "has-text-warning" }
-      { "trigger": "has-text-danger\tBulma text color", "contents": "has-text-danger" }
-      { "trigger": "has-text-grey\tBulma text color", "contents": "has-text-grey" }
-      { "trigger": "has-text-grey-darker\tBulma text color", "contents": "has-text-grey-darker" }
-      { "trigger": "has-text-grey-dark\tBulma text color", "contents": "has-text-grey-dark" }
-      { "trigger": "has-text-black-darker\tBulma text color", "contents": "has-text-black-darker" }
-      { "trigger": "has-text-black-dark\tBulma text color", "contents": "has-text-black-dark" }
-      { "trigger": "has-text-black-ter\tBulma text color", "contents": "has-text-black-ter" }
-      { "trigger": "has-text-black-bis\tBulma text color", "contents": "has-text-black-bis" }
-      { "trigger": "has-text-white-ter\tBulma text color", "contents": "has-text-white-ter" }
-      { "trigger": "has-text-white-bis\tBulma text color", "contents": "has-text-white-bis" }
+      { "trigger": "has-text-white\tBulma text color", "contents": "has-text-white" },
+      { "trigger": "has-text-black\tBulma text color", "contents": "has-text-black" },
+      { "trigger": "has-text-light\tBulma text color", "contents": "has-text-light" },
+      { "trigger": "has-text-dark\tBulma text color", "contents": "has-text-dark" },
+      { "trigger": "has-text-primary\tBulma text color", "contents": "has-text-primary" },
+      { "trigger": "has-text-info\tBulma text color", "contents": "has-text-info" },
+      { "trigger": "has-text-link\tBulma text color", "contents": "has-text-link" },
+      { "trigger": "has-text-success\tBulma text color", "contents": "has-text-success" },
+      { "trigger": "has-text-warning\tBulma text color", "contents": "has-text-warning" },
+      { "trigger": "has-text-danger\tBulma text color", "contents": "has-text-danger" },
+      { "trigger": "has-text-grey\tBulma text color", "contents": "has-text-grey" },
+      { "trigger": "has-text-grey-darker\tBulma text color", "contents": "has-text-grey-darker" },
+      { "trigger": "has-text-grey-dark\tBulma text color", "contents": "has-text-grey-dark" },
+      { "trigger": "has-text-black-darker\tBulma text color", "contents": "has-text-black-darker" },
+      { "trigger": "has-text-black-dark\tBulma text color", "contents": "has-text-black-dark" },
+      { "trigger": "has-text-black-ter\tBulma text color", "contents": "has-text-black-ter" },
+      { "trigger": "has-text-black-bis\tBulma text color", "contents": "has-text-black-bis" },
+      { "trigger": "has-text-white-ter\tBulma text color", "contents": "has-text-white-ter" },
+      { "trigger": "has-text-white-bis\tBulma text color", "contents": "has-text-white-bis" },
 
-      { "trigger": "has-background-white\tBulma background color", "contents": "has-background-white" }
-      { "trigger": "has-background-black\tBulma background color", "contents": "has-background-black" }
-      { "trigger": "has-background-light\tBulma background color", "contents": "has-background-light" }
-      { "trigger": "has-background-dark\tBulma background color", "contents": "has-background-dark" }
-      { "trigger": "has-background-primary\tBulma background color", "contents": "has-background-primary" }
-      { "trigger": "has-background-info\tBulma background color", "contents": "has-background-info" }
-      { "trigger": "has-background-link\tBulma background color", "contents": "has-background-link" }
-      { "trigger": "has-background-success\tBulma background color", "contents": "has-background-success" }
-      { "trigger": "has-background-warning\tBulma background color", "contents": "has-background-warning" }
-      { "trigger": "has-background-danger\tBulma background color", "contents": "has-background-danger" }
-      { "trigger": "has-background-grey\tBulma background color", "contents": "has-background-grey" }
-      { "trigger": "has-background-grey-darker\tBulma background color", "contents": "has-background-grey-darker" }
-      { "trigger": "has-background-grey-dark\tBulma background color", "contents": "has-background-grey-dark" }
-      { "trigger": "has-background-black-darker\tBulma background color", "contents": "has-background-black-darker" }
-      { "trigger": "has-background-black-dark\tBulma background color", "contents": "has-background-black-dark" }
-      { "trigger": "has-background-black-ter\tBulma background color", "contents": "has-background-black-ter" }
-      { "trigger": "has-background-black-bis\tBulma background color", "contents": "has-background-black-bis" }
-      { "trigger": "has-background-white-ter\tBulma background color", "contents": "has-background-white-ter" }
-      { "trigger": "has-background-white-bis\tBulma background color", "contents": "has-background-white-bis" }
+      { "trigger": "has-background-white\tBulma background color", "contents": "has-background-white" },
+      { "trigger": "has-background-black\tBulma background color", "contents": "has-background-black" },
+      { "trigger": "has-background-light\tBulma background color", "contents": "has-background-light" },
+      { "trigger": "has-background-dark\tBulma background color", "contents": "has-background-dark" },
+      { "trigger": "has-background-primary\tBulma background color", "contents": "has-background-primary" },
+      { "trigger": "has-background-info\tBulma background color", "contents": "has-background-info" },
+      { "trigger": "has-background-link\tBulma background color", "contents": "has-background-link" },
+      { "trigger": "has-background-success\tBulma background color", "contents": "has-background-success" },
+      { "trigger": "has-background-warning\tBulma background color", "contents": "has-background-warning" },
+      { "trigger": "has-background-danger\tBulma background color", "contents": "has-background-danger" },
+      { "trigger": "has-background-grey\tBulma background color", "contents": "has-background-grey" },
+      { "trigger": "has-background-grey-darker\tBulma background color", "contents": "has-background-grey-darker" },
+      { "trigger": "has-background-grey-dark\tBulma background color", "contents": "has-background-grey-dark" },
+      { "trigger": "has-background-black-darker\tBulma background color", "contents": "has-background-black-darker" },
+      { "trigger": "has-background-black-dark\tBulma background color", "contents": "has-background-black-dark" },
+      { "trigger": "has-background-black-ter\tBulma background color", "contents": "has-background-black-ter" },
+      { "trigger": "has-background-black-bis\tBulma background color", "contents": "has-background-black-bis" },
+      { "trigger": "has-background-white-ter\tBulma background color", "contents": "has-background-white-ter" },
+      { "trigger": "has-background-white-bis\tBulma background color", "contents": "has-background-white-bis" },
 
-      { "trigger": "is-size-1\tBulma text size", "contents": "is-size-1" }
-      { "trigger": "is-size-2\tBulma text size", "contents": "is-size-2" }
-      { "trigger": "is-size-3\tBulma text size", "contents": "is-size-3" }
-      { "trigger": "is-size-4\tBulma text size", "contents": "is-size-4" }
-      { "trigger": "is-size-5\tBulma text size", "contents": "is-size-5" }
-      { "trigger": "is-size-6\tBulma text size", "contents": "is-size-6" }
-      { "trigger": "is-size-7\tBulma text size", "contents": "is-size-7" }
+      { "trigger": "is-size-1\tBulma text size", "contents": "is-size-1" },
+      { "trigger": "is-size-2\tBulma text size", "contents": "is-size-2" },
+      { "trigger": "is-size-3\tBulma text size", "contents": "is-size-3" },
+      { "trigger": "is-size-4\tBulma text size", "contents": "is-size-4" },
+      { "trigger": "is-size-5\tBulma text size", "contents": "is-size-5" },
+      { "trigger": "is-size-6\tBulma text size", "contents": "is-size-6" },
+      { "trigger": "is-size-7\tBulma text size", "contents": "is-size-7" },
       
-      { "trigger": "has-text-centered\tBulma text alignment", "contents": "has-text-centered" }
-      { "trigger": "has-text-justified\tBulma text alignment", "contents": "has-text-justified" }
-      { "trigger": "has-text-left\tBulma text alignment", "contents": "has-text-left" }
-      { "trigger": "has-text-right\tBulma text alignment", "contents": "has-text-right" }
+      { "trigger": "has-text-centered\tBulma text alignment", "contents": "has-text-centered" },
+      { "trigger": "has-text-justified\tBulma text alignment", "contents": "has-text-justified" },
+      { "trigger": "has-text-left\tBulma text alignment", "contents": "has-text-left" },
+      { "trigger": "has-text-right\tBulma text alignment", "contents": "has-text-right" },
       
-      { "trigger": "is-capitalized\tBulma text transform", "contents": "is-capitalized" }
-      { "trigger": "is-lowercase\tBulma text transform", "contents": "is-lowercase" }
-      { "trigger": "is-uppercase\tBulma text transform", "contents": "is-uppercase" }
-      { "trigger": "is-italic\tBulma text transform", "contents": "is-italic" }
+      { "trigger": "is-capitalized\tBulma text transform", "contents": "is-capitalized" },
+      { "trigger": "is-lowercase\tBulma text transform", "contents": "is-lowercase" },
+      { "trigger": "is-uppercase\tBulma text transform", "contents": "is-uppercase" },
+      { "trigger": "is-italic\tBulma text transform", "contents": "is-italic" },
       
-      { "trigger": "has-text-weight-light\tBulma text weight", "contents": "has-text-weight-light" }
-      { "trigger": "has-text-weight-normal\tBulma text weight", "contents": "has-text-weight-normal" }
-      { "trigger": "has-text-weight-medium\tBulma text weight", "contents": "has-text-weight-medium" }
-      { "trigger": "has-text-weight-semibold\tBulma text weight", "contents": "has-text-weight-semibold" }
-      { "trigger": "has-text-weight-bold\tBulma text weight", "contents": "has-text-weight-bold" }
+      { "trigger": "has-text-weight-light\tBulma text weight", "contents": "has-text-weight-light" },
+      { "trigger": "has-text-weight-normal\tBulma text weight", "contents": "has-text-weight-normal" },
+      { "trigger": "has-text-weight-medium\tBulma text weight", "contents": "has-text-weight-medium" },
+      { "trigger": "has-text-weight-semibold\tBulma text weight", "contents": "has-text-weight-semibold" },
+      { "trigger": "has-text-weight-bold\tBulma text weight", "contents": "has-text-weight-bold" },
       
-      { "trigger": "is-family-sans-serif\tBulma font family", "contents": "is-family-sans-serif" }
-      { "trigger": "is-family-monospace\tBulma font family", "contents": "is-family-monospace" }
-      { "trigger": "is-family-primary\tBulma font family", "contents": "is-family-primary" }
-      { "trigger": "is-family-secondary\tBulma font family", "contents": "is-family-secondary" }
-      { "trigger": "is-family-code\tBulma font family", "contents": "is-family-code" }
+      { "trigger": "is-family-sans-serif\tBulma font family", "contents": "is-family-sans-serif" },
+      { "trigger": "is-family-monospace\tBulma font family", "contents": "is-family-monospace" },
+      { "trigger": "is-family-primary\tBulma font family", "contents": "is-family-primary" },
+      { "trigger": "is-family-secondary\tBulma font family", "contents": "is-family-secondary" },
+      { "trigger": "is-family-code\tBulma font family", "contents": "is-family-code" },
 
-      { "trigger": "columns\tBulma columns", "contents": "columns" }
-      { "trigger": "column\tBulma column", "contents": "column" }
+      { "trigger": "columns\tBulma columns", "contents": "columns" },
+      { "trigger": "column\tBulma column", "contents": "column" },
       
-      { "trigger": "is-three-quarters\tBulma column size", "contents": "is-three-quarters" }
-      { "trigger": "is-two-thirds\tBulma column size", "contents": "is-two-thirds" }
-      { "trigger": "is-half\tBulma column size", "contents": "is-half" }
-      { "trigger": "is-one-third\tBulma column size", "contents": "is-one-third" }
-      { "trigger": "is-one-quarter\tBulma column size", "contents": "is-one-quarter" }
-      { "trigger": "is-full\tBulma column size", "contents": "is-full" }
+      { "trigger": "is-three-quarters\tBulma column size", "contents": "is-three-quarters" },
+      { "trigger": "is-two-thirds\tBulma column size", "contents": "is-two-thirds" },
+      { "trigger": "is-half\tBulma column size", "contents": "is-half" },
+      { "trigger": "is-one-third\tBulma column size", "contents": "is-one-third" },
+      { "trigger": "is-one-quarter\tBulma column size", "contents": "is-one-quarter" },
+      { "trigger": "is-full\tBulma column size", "contents": "is-full" },
       
-      { "trigger": "is-four-fifths\tBulma column size", "contents": "is-four-fifths" }
-      { "trigger": "is-three-fifths\tBulma column size", "contents": "is-three-fifths" }
-      { "trigger": "is-two-fifths\tBulma column size", "contents": "is-two-fifths" }
-      { "trigger": "is-one-fifth\tBulma column size", "contents": "is-one-fifth" }
+      { "trigger": "is-four-fifths\tBulma column size", "contents": "is-four-fifths" },
+      { "trigger": "is-three-fifths\tBulma column size", "contents": "is-three-fifths" },
+      { "trigger": "is-two-fifths\tBulma column size", "contents": "is-two-fifths" },
+      { "trigger": "is-one-fifth\tBulma column size", "contents": "is-one-fifth" },
       
-      { "trigger": "is-1\tBulma column size", "contents": "is-1" }
-      { "trigger": "is-2\tBulma column size", "contents": "is-2" }
-      { "trigger": "is-3\tBulma column size", "contents": "is-3" }
-      { "trigger": "is-4\tBulma column size", "contents": "is-4" }
-      { "trigger": "is-5\tBulma column size", "contents": "is-5" }
-      { "trigger": "is-6\tBulma column size", "contents": "is-6" }
-      { "trigger": "is-7\tBulma column size", "contents": "is-7" }
-      { "trigger": "is-8\tBulma column size", "contents": "is-8" }
-      { "trigger": "is-9\tBulma column size", "contents": "is-9" }
-      { "trigger": "is-10\tBulma column size", "contents": "is-10" }
-      { "trigger": "is-11\tBulma column size", "contents": "is-11" }
-      { "trigger": "is-12\tBulma column size", "contents": "is-12" }
+      { "trigger": "is-1\tBulma column size", "contents": "is-1" },
+      { "trigger": "is-2\tBulma column size", "contents": "is-2" },
+      { "trigger": "is-3\tBulma column size", "contents": "is-3" },
+      { "trigger": "is-4\tBulma column size", "contents": "is-4" },
+      { "trigger": "is-5\tBulma column size", "contents": "is-5" },
+      { "trigger": "is-6\tBulma column size", "contents": "is-6" },
+      { "trigger": "is-7\tBulma column size", "contents": "is-7" },
+      { "trigger": "is-8\tBulma column size", "contents": "is-8" },
+      { "trigger": "is-9\tBulma column size", "contents": "is-9" },
+      { "trigger": "is-10\tBulma column size", "contents": "is-10" },
+      { "trigger": "is-11\tBulma column size", "contents": "is-11" },
+      { "trigger": "is-12\tBulma column size", "contents": "is-12" },
 
-      { "trigger": "is-offset-three-quarters\tBulma column offset", "contents": "is-offset-three-quarters" }
-      { "trigger": "is-offset-two-thirds\tBulma column offset", "contents": "is-offset-two-thirds" }
-      { "trigger": "is-offset-half\tBulma column offset", "contents": "is-offset-half" }
-      { "trigger": "is-offset-one-third\tBulma column offset", "contents": "is-offset-one-third" }
-      { "trigger": "is-offset-one-quarter\tBulma column offset", "contents": "is-offset-one-quarter" }
-      { "trigger": "is-offset-full\tBulma column offset", "contents": "is-offset-full" }
+      { "trigger": "is-offset-three-quarters\tBulma column offset", "contents": "is-offset-three-quarters" },
+      { "trigger": "is-offset-two-thirds\tBulma column offset", "contents": "is-offset-two-thirds" },
+      { "trigger": "is-offset-half\tBulma column offset", "contents": "is-offset-half" },
+      { "trigger": "is-offset-one-third\tBulma column offset", "contents": "is-offset-one-third" },
+      { "trigger": "is-offset-one-quarter\tBulma column offset", "contents": "is-offset-one-quarter" },
+      { "trigger": "is-offset-full\tBulma column offset", "contents": "is-offset-full" },
       
-      { "trigger": "is-offset-four-fifths\tBulma column offset", "contents": "is-offset-four-fifths" }
-      { "trigger": "is-offset-three-fifths\tBulma column offset", "contents": "is-offset-three-fifths" }
-      { "trigger": "is-offset-two-fifths\tBulma column offset", "contents": "is-offset-two-fifths" }
-      { "trigger": "is-offset-one-fifth\tBulma column offset", "contents": "is-offset-one-fifth" }
+      { "trigger": "is-offset-four-fifths\tBulma column offset", "contents": "is-offset-four-fifths" },
+      { "trigger": "is-offset-three-fifths\tBulma column offset", "contents": "is-offset-three-fifths" },
+      { "trigger": "is-offset-two-fifths\tBulma column offset", "contents": "is-offset-two-fifths" },
+      { "trigger": "is-offset-one-fifth\tBulma column offset", "contents": "is-offset-one-fifth" },
       
-      { "trigger": "is-offset-1\tBulma column offset", "contents": "is-offset-1" }
-      { "trigger": "is-offset-2\tBulma column offset", "contents": "is-offset-2" }
-      { "trigger": "is-offset-3\tBulma column offset", "contents": "is-offset-3" }
-      { "trigger": "is-offset-4\tBulma column offset", "contents": "is-offset-4" }
-      { "trigger": "is-offset-5\tBulma column offset", "contents": "is-offset-5" }
-      { "trigger": "is-offset-6\tBulma column offset", "contents": "is-offset-6" }
-      { "trigger": "is-offset-7\tBulma column offset", "contents": "is-offset-7" }
-      { "trigger": "is-offset-8\tBulma column offset", "contents": "is-offset-8" }
-      { "trigger": "is-offset-9\tBulma column offset", "contents": "is-offset-9" }
-      { "trigger": "is-offset-10\tBulma column offset", "contents": "is-offset-10" }
-      { "trigger": "is-offset-11\tBulma column offset", "contents": "is-offset-11" }
-      { "trigger": "is-offset-12\tBulma column offset", "contents": "is-offset-12" }
+      { "trigger": "is-offset-1\tBulma column offset", "contents": "is-offset-1" },
+      { "trigger": "is-offset-2\tBulma column offset", "contents": "is-offset-2" },
+      { "trigger": "is-offset-3\tBulma column offset", "contents": "is-offset-3" },
+      { "trigger": "is-offset-4\tBulma column offset", "contents": "is-offset-4" },
+      { "trigger": "is-offset-5\tBulma column offset", "contents": "is-offset-5" },
+      { "trigger": "is-offset-6\tBulma column offset", "contents": "is-offset-6" },
+      { "trigger": "is-offset-7\tBulma column offset", "contents": "is-offset-7" },
+      { "trigger": "is-offset-8\tBulma column offset", "contents": "is-offset-8" },
+      { "trigger": "is-offset-9\tBulma column offset", "contents": "is-offset-9" },
+      { "trigger": "is-offset-10\tBulma column offset", "contents": "is-offset-10" },
+      { "trigger": "is-offset-11\tBulma column offset", "contents": "is-offset-11" },
+      { "trigger": "is-offset-12\tBulma column offset", "contents": "is-offset-12" },
       
-      { "trigger": "is-narrow\tBulma column narrow", "contents": "is-narrow" }
+      { "trigger": "is-narrow\tBulma column narrow", "contents": "is-narrow" },
 
-      { "trigger": "is-vcentered\tBulma column vertical alignment", "contents": "is-vcentered" }
-      { "trigger": "is-multiline\tBulma column multiline", "contents": "is-multiline" }
+      { "trigger": "is-vcentered\tBulma column vertical alignment", "contents": "is-vcentered" },
+      { "trigger": "is-multiline\tBulma column multiline", "contents": "is-multiline" },
       
-      { "trigger": "container\tBulma container", "contents": "container" }
-      { "trigger": "container is-fluid\tBulma container fluid", "contents": "container is-fluid" }
+      { "trigger": "container\tBulma container", "contents": "container" },
+      { "trigger": "container is-fluid\tBulma container fluid", "contents": "container is-fluid" },
       
-      { "trigger": "level\tBulma level", "contents": "level" }
-      { "trigger": "level-left\tBulma level", "contents": "level-left" }
-      { "trigger": "level-right\tBulma level", "contents": "level-right" }
-      { "trigger": "level-item\tBulma level", "contents": "level-item" }
+      { "trigger": "level\tBulma level", "contents": "level" },
+      { "trigger": "level-left\tBulma level", "contents": "level-left" },
+      { "trigger": "level-right\tBulma level", "contents": "level-right" },
+      { "trigger": "level-item\tBulma level", "contents": "level-item" },
       
-      { "trigger": "media\tBulma media", "contents": "media" }
-      { "trigger": "media-content\tBulma media", "contents": "media-content" }
-      { "trigger": "media-left\tBulma media", "contents": "media-left" }
+      { "trigger": "media\tBulma media", "contents": "media" },
+      { "trigger": "media-content\tBulma media", "contents": "media-content" },
+      { "trigger": "media-left\tBulma media", "contents": "media-left" },
       
-      { "trigger": "hero\tBulma hero", "contents": "hero" }
-      { "trigger": "hero-body\tBulma hero", "contents": "hero-body" }
-      { "trigger": "hero-head\tBulma hero", "contents": "hero-head" }
-      { "trigger": "hero-foot\tBulma hero", "contents": "hero-foot" }
+      { "trigger": "hero\tBulma hero", "contents": "hero" },
+      { "trigger": "hero-body\tBulma hero", "contents": "hero-body" },
+      { "trigger": "hero-head\tBulma hero", "contents": "hero-head" },
+      { "trigger": "hero-foot\tBulma hero", "contents": "hero-foot" },
       
-      { "trigger": "section\tBulma section", "contents": "section" }
+      { "trigger": "section\tBulma section", "contents": "section" },
 
-      { "trigger": "footer\tBulma footer", "contents": "footer" }
+      { "trigger": "footer\tBulma footer", "contents": "footer" },
 
-      { "trigger": "tile\tBulma tile", "contents": "tile" }
-      { "trigger": "is-anchestor\tBulma tile", "contents": "is-anchestor" }
-      { "trigger": "is-parent\tBulma tile", "contents": "is-parent" }
-      { "trigger": "is-child\tBulma tile", "contents": "is-child" }
-      { "trigger": "is-vertical\tBulma tile", "contents": "is-vertical" }
+      { "trigger": "tile\tBulma tile", "contents": "tile" },
+      { "trigger": "is-anchestor\tBulma tile", "contents": "is-anchestor" },
+      { "trigger": "is-parent\tBulma tile", "contents": "is-parent" },
+      { "trigger": "is-child\tBulma tile", "contents": "is-child" },
+      { "trigger": "is-vertical\tBulma tile", "contents": "is-vertical" },
       
-      { "trigger": "\tBulma", "contents": "" }
+      { "trigger": "field\tBulma form", "contents": "field" },
+      { "trigger": "field-horizontal\tBulma form", "contents": "field is-horizontal" },
+      { "trigger": "field-label\tBulma form", "contents": "field-label" },
+      { "trigger": "field-body\tBulma form", "contents": "field-body" },
+      { "trigger": "is-grouped\tBulma form", "contents": "is-grouped" },
+      { "trigger": "is-grouped-centered\tBulma form", "contents": "is-grouped-centered" },
+      { "trigger": "is-grouped-right\tBulma form", "contents": "is-grouped-right" },
+      { "trigger": "is-grouped-multiline\tBulma form", "contents": "is-grouped-multiline" },
+      { "trigger": "has-addons\tBulma form", "contents": "has-addons" },
+      { "trigger": "control\tBulma form", "contents": "control" },
+      { "trigger": "is-expanded\tBulma form", "contents": "is-expanded" },
+      
+      { "trigger": "label\tBulma form", "contents": "label" },
+      { "trigger": "input\tBulma form", "contents": "input" },
+      { "trigger": "textarea\tBulma form", "contents": "textarea" },
+      { "trigger": "select\tBulma form", "contents": "select" },
+      { "trigger": "checkbox\tBulma form", "contents": "checkbox" },
+      { "trigger": "radio\tBulma form", "contents": "radio" },
+      { "trigger": "button\tBulma form", "contents": "button" },
+      { "trigger": "help\tBulma form", "contents": "help" },
+      
+      { "trigger": "is-hovered\tBulma form", "contents": "is-hovered" },
+      { "trigger": "is-focused\tBulma form", "contents": "is-focused" },
+      { "trigger": "is-loading\tBulma form", "contents": "is-loading" },
+      { "trigger": "is-static\tBulma form", "contents": "is-static" },
+      { "trigger": "is-rounded\tBulma form", "contents": "is-rounded" },
+      { "trigger": "select-multiple\tBulma form", "contents": "select is-multiple" },
+      
+      { "trigger": "has-icon-left\tBulma form", "contents": "has-icon-left" },
+      { "trigger": "has-icon-right\tBulma form", "contents": "has-icon-right" },
+      { "trigger": "icon-left\tBulma form", "contents": "icon is-left" },
+      { "trigger": "icon-right\tBulma form", "contents": "icon is-right" },
+      
+      { "trigger": "file\tBulma form", "contents": "file" },
+      { "trigger": "file-label\tBulma form", "contents": "file-label" },
+      { "trigger": "file-input\tBulma form", "contents": "file-input" },
+      { "trigger": "file-cta\tBulma form", "contents": "file-cta" },
+      { "trigger": "file-icon\tBulma form", "contents": "file-icon" },
+      { "trigger": "file-has-name\tBulma form", "contents": "file has-name" },
+      { "trigger": "file-name\tBulma form", "contents": "file-name" },
+      { "trigger": "is-fullwidth\tBulma form", "contents": "is-fullwidth" },
+      { "trigger": "is-boxed\tBulma form", "contents": "is-boxed" },
+      { "trigger": "file-centered\tBulma form", "contents": "file is-centered" },
+      { "trigger": "file-right\tBulma form", "contents": "file is-right" },
+      
+      { "trigger": "\tBulma", "contents": "" },
    ]
 }

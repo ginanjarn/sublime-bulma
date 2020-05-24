@@ -6,6 +6,11 @@
       { "trigger": "bulma-cdn\tBulma CDN", "contents": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css\">" },
       { "trigger": "fa-cdn\tFontawesome CDN", "contents": "<script defer src=\"https://use.fontawesome.com/releases/v5.3.1/js/all.js\"></script>" },
       
+      { "trigger": "mobile\tBulma screen", "contents": "-mobile" }
+      { "trigger": "tablet\tBulma screen", "contents": "-tablet" }
+      { "trigger": "desktop\tBulma screen", "contents": "-desktop" }
+      { "trigger": "widescreen\tBulma screen", "contents": "-widescreen" }
+      
       { "trigger": "is-primary\tBulma colors", "contents": "is-primary" }
       { "trigger": "is-link\tBulma colors", "contents": "is-link" }
       { "trigger": "is-info\tBulma colors", "contents": "is-info" }
@@ -13,6 +18,74 @@
       { "trigger": "is-warning\tBulma colors", "contents": "is-warning" }
       { "trigger": "is-danger\tBulma colors", "contents": "is-danger" }
       
+      { "trigger": "is-small\tBulma size", "contents": "is-small" }
+      { "trigger": "is-medium\tBulma size", "contents": "is-medium" }
+      { "trigger": "is-large\tBulma size", "contents": "is-large" }
+      
+      { "trigger": "is-outlined\tBulma state", "contents": "is-outlined" }
+      { "trigger": "is-loading\tBulma state", "contents": "is-loading" }
+
+      { "trigger": "is-clearfix\tBulma helpers", "contents": "is-clearfix" }
+      { "trigger": "is-pulled-left\tBulma helpers", "contents": "is-pulled-left" }
+      { "trigger": "is-pulled-right\tBulma helpers", "contents": "is-pulled-right" }
+      { "trigger": "is-marginless\tBulma helpers", "contents": "is-marginless" }
+      { "trigger": "is-paddingless\tBulma helpers", "contents": "is-paddingless" }
+      { "trigger": "is-overlay\tBulma helpers", "contents": "is-overlay" }
+      { "trigger": "is-clipped\tBulma helpers", "contents": "is-clipped" }
+      { "trigger": "is-radiusless\tBulma helpers", "contents": "is-radiusless" }
+      { "trigger": "is-shadowless\tBulma helpers", "contents": "is-shadowless" }
+      { "trigger": "is-unselectable\tBulma helpers", "contents": "is-unselectable" }
+      { "trigger": "is-invisible\tBulma helpers", "contents": "is-invisible" }
+      { "trigger": "is-hidden\tBulma helpers", "contents": "is-hidden" }
+      { "trigger": "is-sr-only\tBulma helpers", "contents": "is-sr-only" }
+      { "trigger": "is-relative\tBulma helpers", "contents": "is-relative" }
+      
+      { "trigger": "is-block\tBulma display", "contents": "is-block" }
+      { "trigger": "is-flex\tBulma display", "contents": "is-flex" }
+      { "trigger": "is-inline\tBulma display", "contents": "is-inline" }
+      { "trigger": "is-inline-block\tBulma display", "contents": "is-inline-block" }
+      { "trigger": "is-inline-flex\tBulma display", "contents": "is-inline-flex" }
+      
+      { "trigger": "has-text-white\tBulma text color", "contents": "has-text-white" }
+      { "trigger": "has-text-black\tBulma text color", "contents": "has-text-black" }
+      { "trigger": "has-text-light\tBulma text color", "contents": "has-text-light" }
+      { "trigger": "has-text-dark\tBulma text color", "contents": "has-text-dark" }
+      { "trigger": "has-text-primary\tBulma text color", "contents": "has-text-primary" }
+      { "trigger": "has-text-info\tBulma text color", "contents": "has-text-info" }
+      { "trigger": "has-text-link\tBulma text color", "contents": "has-text-link" }
+      { "trigger": "has-text-success\tBulma text color", "contents": "has-text-success" }
+      { "trigger": "has-text-warning\tBulma text color", "contents": "has-text-warning" }
+      { "trigger": "has-text-danger\tBulma text color", "contents": "has-text-danger" }
+      { "trigger": "has-text-grey\tBulma text color", "contents": "has-text-grey" }
+      { "trigger": "has-text-grey-darker\tBulma text color", "contents": "has-text-grey-darker" }
+      { "trigger": "has-text-grey-dark\tBulma text color", "contents": "has-text-grey-dark" }
+      { "trigger": "has-text-black-darker\tBulma text color", "contents": "has-text-black-darker" }
+      { "trigger": "has-text-black-dark\tBulma text color", "contents": "has-text-black-dark" }
+      { "trigger": "has-text-black-ter\tBulma text color", "contents": "has-text-black-ter" }
+      { "trigger": "has-text-black-bis\tBulma text color", "contents": "has-text-black-bis" }
+      { "trigger": "has-text-white-ter\tBulma text color", "contents": "has-text-white-ter" }
+      { "trigger": "has-text-white-bis\tBulma text color", "contents": "has-text-white-bis" }
+
+      { "trigger": "has-background-white\tBulma background color", "contents": "has-background-white" }
+      { "trigger": "has-background-black\tBulma background color", "contents": "has-background-black" }
+      { "trigger": "has-background-light\tBulma background color", "contents": "has-background-light" }
+      { "trigger": "has-background-dark\tBulma background color", "contents": "has-background-dark" }
+      { "trigger": "has-background-primary\tBulma background color", "contents": "has-background-primary" }
+      { "trigger": "has-background-info\tBulma background color", "contents": "has-background-info" }
+      { "trigger": "has-background-link\tBulma background color", "contents": "has-background-link" }
+      { "trigger": "has-background-success\tBulma background color", "contents": "has-background-success" }
+      { "trigger": "has-background-warning\tBulma background color", "contents": "has-background-warning" }
+      { "trigger": "has-background-danger\tBulma background color", "contents": "has-background-danger" }
+      { "trigger": "has-background-grey\tBulma background color", "contents": "has-background-grey" }
+      { "trigger": "has-background-grey-darker\tBulma background color", "contents": "has-background-grey-darker" }
+      { "trigger": "has-background-grey-dark\tBulma background color", "contents": "has-background-grey-dark" }
+      { "trigger": "has-background-black-darker\tBulma background color", "contents": "has-background-black-darker" }
+      { "trigger": "has-background-black-dark\tBulma background color", "contents": "has-background-black-dark" }
+      { "trigger": "has-background-black-ter\tBulma background color", "contents": "has-background-black-ter" }
+      { "trigger": "has-background-black-bis\tBulma background color", "contents": "has-background-black-bis" }
+      { "trigger": "has-background-white-ter\tBulma background color", "contents": "has-background-white-ter" }
+      { "trigger": "has-background-white-bis\tBulma background color", "contents": "has-background-white-bis" }
+
       { "trigger": "\t", "contents": "" }
    ]
 }

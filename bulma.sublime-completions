@@ -247,6 +247,62 @@
       { "trigger": "file-centered\tBulma form", "contents": "file is-centered" },
       { "trigger": "file-right\tBulma form", "contents": "file is-right" },
       
+      { "trigger": "box\tBulma element", "contents": "box" },
+      { "trigger": "button\tBulma element", "contents": "button" },
+      { "trigger": "button-inverted\tBulma element", "contents": "button is-inverted" },
+      { "trigger": "content\tBulma element", "contents": "content" },
+      { "trigger": "delete\tBulma element", "contents": "delete" },
+      { "trigger": "icon\tBulma element", "contents": "icon" },
+      
+      { "trigger": "image\tBulma element", "contents": "image" },
+
+      { "trigger": "image-16x16\tBulma element", "contents": "image is-16x16" },
+      { "trigger": "image-24x24\tBulma element", "contents": "image is-24x24" },
+      { "trigger": "image-32x32\tBulma element", "contents": "image is-32x32" },
+      { "trigger": "image-48x48\tBulma element", "contents": "image is-48x48" },
+      { "trigger": "image-64x64\tBulma element", "contents": "image is-64x64" },
+      { "trigger": "image-96x96\tBulma element", "contents": "image is-96x96" },
+      { "trigger": "image-128x128\tBulma element", "contents": "image is-128x128" },
+      
+      { "trigger": "image-square\tBulma element", "contents": "image is-square" },
+      { "trigger": "image-1by1\tBulma element", "contents": "image is-1by1" },
+      { "trigger": "image-5by4\tBulma element", "contents": "image is-5by4" },
+      { "trigger": "image-4by3\tBulma element", "contents": "image is-4by3" },
+      { "trigger": "image-3by2\tBulma element", "contents": "image is-3by2" },
+      { "trigger": "image-5by3\tBulma element", "contents": "image is-5by3" },
+      { "trigger": "image-16by9\tBulma element", "contents": "image is-16by9" },
+      { "trigger": "image-2by1\tBulma element", "contents": "image is-2by1" },
+      { "trigger": "image-3by1\tBulma element", "contents": "image is-3by1" },
+      { "trigger": "image-4by5\tBulma element", "contents": "image is-4by5" },
+      { "trigger": "image-3by4\tBulma element", "contents": "image is-3by4" },
+      { "trigger": "image-2by3\tBulma element", "contents": "image is-2by3" },
+      { "trigger": "image-3by5\tBulma element", "contents": "image is-3by5" },
+      { "trigger": "image-9by16\tBulma element", "contents": "image is-9by16" },
+      { "trigger": "image-1by2\tBulma element", "contents": "image is-1by2" },
+      { "trigger": "image-1by3\tBulma element", "contents": "image is-1by3" },
+
+      { "trigger": "notification\tBulma element", "contents": "notification" },
+      { "trigger": "notification-light\tBulma element", "contents": "notification is-light" },
+
+      { "trigger": "progress\tBulma element", "contents": "progress" },
+      
+      { "trigger": "table-container\tBulma element", "contents": "table-container" },
+      { "trigger": "table\tBulma element", "contents": "table" },
+      { "trigger": "table-fullwidth\tBulma element", "contents": "table is-fullwidth" },
+      { "trigger": "is-bordered\tBulma element", "contents": "is-bordered" },
+      { "trigger": "is-striped\tBulma element", "contents": "is-striped" },
+      { "trigger": "is-narrow\tBulma element", "contents": "is-narrow" },
+      { "trigger": "is-hoverable\tBulma element", "contents": "is-hoverable" },
+      { "trigger": "is-selected\tBulma element", "contents": "is-selected" },
+
+      { "trigger": "tags\tBulma element", "contents": "tags" },
+      { "trigger": "tag\tBulma element", "contents": "tag" },
+      { "trigger": "tag-delete\tBulma element", "contents": "tag is-delete" },
+      { "trigger": "tag-addons\tBulma element", "contents": "tag has-addons" },
+
+      { "trigger": "title\tBulma element", "contents": "title" },
+      { "trigger": "subtitle\tBulma element", "contents": "subtitle" },
+
       { "trigger": "\tBulma", "contents": "" },
    ]
 }

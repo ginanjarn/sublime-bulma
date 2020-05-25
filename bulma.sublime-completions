@@ -303,6 +303,52 @@
       { "trigger": "title\tBulma element", "contents": "title" },
       { "trigger": "subtitle\tBulma element", "contents": "subtitle" },
 
+      { "trigger": "breadcrumb\tBulma componets", "contents": "breadcrumb" },
+      { "trigger": "breadcrumb-centered\tBulma componets", "contents": "breadcrumb is-centered" },
+      { "trigger": "breadcrumb-right\tBulma componets", "contents": "breadcrumb is-right" },
+      
+      { "trigger": "arrow-separator\tBulma componets", "contents": "has-arrow-separator" },
+      { "trigger": "bullet-separator\tBulma componets", "contents": "has-bullet-separator" },
+      { "trigger": "dot-separator\tBulma componets", "contents": "has-dot-separator" },
+      { "trigger": "succeeds-separator\tBulma componets", "contents": "has-succeeds-separator" },
+      
+      { "trigger": "card\tBulma componets", "contents": "card" },
+      { "trigger": "card-header\tBulma componets", "contents": "card-header" },
+      { "trigger": "card-header-title\tBulma componets", "contents": "card-header-title" },
+      { "trigger": "card-header-icon\tBulma componets", "contents": "card-header-icon" },
+      { "trigger": "card-image\tBulma componets", "contents": "card-image" },
+      { "trigger": "card-content\tBulma componets", "contents": "card-content" },
+      { "trigger": "card-footer\tBulma componets", "contents": "card-footer" },
+      { "trigger": "card-footer-item\tBulma componets", "contents": "card-footer-item" },
+      
+      { "trigger": "dropdown\tBulma componets", "contents": "dropdown" },
+      { "trigger": "dropdown-trigger\tBulma componets", "contents": "dropdown-trigger" },
+      { "trigger": "dropdown-menu\tBulma componets", "contents": "dropdown-menu" },
+      { "trigger": "dropdown-content\tBulma componets", "contents": "dropdown-content" },
+      { "trigger": "dropdown-item\tBulma componets", "contents": "dropdown-item" },
+      { "trigger": "dropdown-divider\tBulma componets", "contents": "dropdown-divider" },
+      
+      { "trigger": "is-active\tBulma componets", "contents": "is-active" },
+      { "trigger": "is-right\tBulma componets", "contents": "is-right" },
+      { "trigger": "dropup\tBulma componets", "contents": "dropdown is-up" },
+      
+      { "trigger": "menu\tBulma componets", "contents": "menu" },
+      { "trigger": "menu-label\tBulma componets", "contents": "menu-label" },
+      { "trigger": "menu-list\tBulma componets", "contents": "menu-list" },
+      
+      { "trigger": "message\tBulma componets", "contents": "message" },
+      { "trigger": "message-header\tBulma componets", "contents": "message-header" },
+      { "trigger": "message-body\tBulma componets", "contents": "message-body" },
+      
+      { "trigger": "modal\tBulma componets", "contents": "modal" },
+      { "trigger": "modal-background\tBulma componets", "contents": "modal-background" },
+      { "trigger": "modal-content\tBulma componets", "contents": "modal-content" },
+      { "trigger": "modal-close\tBulma componets", "contents": "modal-close" },
+      { "trigger": "modal-card\tBulma componets", "contents": "modal-card" },
+      { "trigger": "modal-card-head\tBulma componets", "contents": "modal-card-head" },
+      { "trigger": "modal-card-title\tBulma componets", "contents": "modal-card-title" },
+      { "trigger": "modal-card-body\tBulma componets", "contents": "modal-card-body" },
+      { "trigger": "modal-card-footer\tBulma componets", "contents": "modal-card-footer" },
       { "trigger": "\tBulma", "contents": "" },
    ]
 }

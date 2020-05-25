@@ -349,6 +349,32 @@
       { "trigger": "modal-card-title\tBulma componets", "contents": "modal-card-title" },
       { "trigger": "modal-card-body\tBulma componets", "contents": "modal-card-body" },
       { "trigger": "modal-card-footer\tBulma componets", "contents": "modal-card-footer" },
-      { "trigger": "\tBulma", "contents": "" },
+      
+      { "trigger": "navbar\tBulma componets", "contents": "navbar" },
+      { "trigger": "navbar-brand\tBulma componets", "contents": "navbar-brand" },
+      { "trigger": "navbar-burger\tBulma componets", "contents": "navbar-burger" },
+      { "trigger": "navbar-menu\tBulma componets", "contents": "navbar-menu" },
+      { "trigger": "navbar-start\tBulma componets", "contents": "navbar-start" },
+      { "trigger": "navbar-end\tBulma componets", "contents": "navbar-end" },
+      { "trigger": "navbar-item\tBulma componets", "contents": "navbar-item" },
+      { "trigger": "navbar-link\tBulma componets", "contents": "navbar-link" },
+      { "trigger": "navbar-dropdown\tBulma componets", "contents": "navbar-dropdown" },
+      { "trigger": "navbar-divider\tBulma componets", "contents": "navbar-divider" },
+      
+      { "trigger": "pagination\tBulma componets", "contents": "pagination" },
+      { "trigger": "pagination-previous\tBulma componets", "contents": "pagination-previous" },
+      { "trigger": "pagination-next\tBulma componets", "contents": "pagination-next" },
+      { "trigger": "pagination-link\tBulma componets", "contents": "pagination-link" },
+      { "trigger": "pagination-ellipsis\tBulma componets", "contents": "pagination-ellipsis" },
+      
+      { "trigger": "panel\tBulma componets", "contents": "panel" },
+      { "trigger": "panel-heading\tBulma componets", "contents": "panel-heading" },
+      { "trigger": "panel-tabs\tBulma componets", "contents": "panel-tabs" },
+      { "trigger": "panel-block\tBulma componets", "contents": "panel-block" },
+      { "trigger": "panel-icon\tBulma componets", "contents": "panel-icon" },
+      
+      { "trigger": "tabs\tBulma componets", "contents": "tabs" },
+      { "trigger": "tabs-toggle\tBulma componets", "contents": "tabs is-toggle" },
+      { "trigger": "tabs-toggle-rounded\tBulma componets", "contents": "tabs is-toggle is-toggle-rounded" },
    ]
 }
